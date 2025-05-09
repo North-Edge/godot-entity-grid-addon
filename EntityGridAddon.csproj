@@ -1,0 +1,11 @@
+<Project Sdk="Godot.NET.Sdk/4.4.1">
+  <PropertyGroup>
+	<RootNamespace>NorthEdge.addons.EntityGridAddon</RootNamespace>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+	<TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NorthEdge.GameGrid" Version="1.0.0" />
+  </ItemGroup>
+</Project>
