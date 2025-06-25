@@ -8,4 +8,7 @@
   <ItemGroup>
     <PackageReference Include="NorthEdge.GameGrid" Version="1.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="addons\EntityGridAddon\" />
+  </ItemGroup>
 </Project>

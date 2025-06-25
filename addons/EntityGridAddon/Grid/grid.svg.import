@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds41pbaiuyb38"
-path="res://.godot/imported/grid.svg-006cb8432e2de6409d2777cda210c845.ctex"
+path="res://.godot/imported/grid.svg-652f41c5dbf54cc1b1f8b5f85792dd9c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Grid/grid.svg"
-dest_files=["res://.godot/imported/grid.svg-006cb8432e2de6409d2777cda210c845.ctex"]
+source_file="res://addons/EntityGridAddon/Grid/grid.svg"
+dest_files=["res://.godot/imported/grid.svg-652f41c5dbf54cc1b1f8b5f85792dd9c.ctex"]
 
 [params]
 
